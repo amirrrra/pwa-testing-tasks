@@ -1,0 +1,26 @@
+{
+    "name": "Simple PWA",
+    "short_name": "PWA Demo",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2c3e50",
+    "theme_color": "#2c3e50",
+    "description": "A simple 3-page PWA demonstration",
+    "icons": [
+        {
+            "src": "icons/device.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/list.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/online-shop.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ]
+}
